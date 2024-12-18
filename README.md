@@ -1,2 +1,7 @@
-# MemeGrammarly
+# 프로젝트소개
 ios 맞춤법 검사용 메모장 앱입니다.
+
+# 개발 환경
+언어: Swift
+도구: Xcode 15
+API: (나라인포) 맞춤법 검사 API
